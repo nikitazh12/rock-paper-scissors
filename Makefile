@@ -3,6 +3,3 @@ install:
 
  make lint:
   npx eslint .
-
-	make setup:
-	npm i readline-sync
